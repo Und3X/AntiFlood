@@ -1,5 +1,5 @@
 # AntiFlood v1.0
-### [Скачать](https://github.com/Und3X/HouseFinder/releases) (Последняя версия)
+### [Скачать](https://github.com/Und3X/AntiFlood/releases) (Последняя версия)
 #### [Поддержать автора рублем](https://yoomoney.ru/to/4100116150755944)
 ## Зависимости (установить перед запуском скрипта)
 - [SAMP 0.3.7 R1](http://files.sa-mp.com/sa-mp-0.3.7-install.exe)
